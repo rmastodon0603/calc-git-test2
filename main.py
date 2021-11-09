@@ -14,5 +14,8 @@ if __name__ == "__main__":
   if x==3: 
     print("Answer: " + str(num1*num2))
   if x==4:
-    print("Answer: " + str(num1/num2))
+    if num2!=0:
+      print("Answer: " + str(num1/num2))
+    else:
+      print("Answer: 0")
   
