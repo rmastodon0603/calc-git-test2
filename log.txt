@@ -1,0 +1,5 @@
+2021-11-15 08:51:37.045975 : User log in app
+2021-11-15 08:51:38.458557 : User choose func in app
+2021-11-15 08:51:39.178475 : User write num1 in app
+2021-11-15 08:51:39.178538 : User write num2 in app
+2021-11-15 08:51:39.178538 : User get answer in app
