@@ -1,7 +1,10 @@
 import datetime
+import os.path
 if __name__ == "__main__":
   print("Choose your action? 1 = '+', 2 = '-', 3 = '*', 4 = '/', 5 = '>', 6 = '<=', 7 = '<', 8 = '<=', 9 = 'factorial' ")
-  file = open("log.txt", "w")
+  save_path = 'C:/Documents/'
+  completeName = os.path.join(save_path, "log.txt")   
+  file = open(completeName, "w")
   dt_now = datetime.datetime.now()
   file.write(str(dt_now) + " : User log in app" + "\n")
   x = int(input())
