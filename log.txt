@@ -1,5 +1,11 @@
-[ACTION] 2021-11-15 09:16:16.926599 : User log in app
-[ACTION] 2021-11-15 09:16:18.904959 : User choose func in app
-[ACTION] 2021-11-15 09:16:19.987960 : User write num1 in app
-[ACTION] 2021-11-15 09:16:19.988027 : User write num2 in app
-[ACTION] 2021-11-15 09:16:20.534836 : User get answer in app
+[ACTION] 2021-11-15 09:37:17.848282 : User log in app
+[ACTION] 2021-11-15 09:37:19.725539 : User choose func in app
+[ACTION] 2021-11-15 09:37:20.269951 : User write num1 in app
+[ACTION] 2021-11-15 09:37:20.270032 : User write num2 in app
+[ACTION] 2021-11-15 09:37:20.558098 : User get answer in app
+[ACTION] 2021-11-15 09:37:22.671755 : User choose func in app
+[ACTION] 2021-11-15 09:37:23.232791 : User write num1 in app
+[ACTION] 2021-11-15 09:37:23.232847 : User write num2 in app
+[ACTION] 2021-11-15 09:37:23.572651 : User get answer in app
+[ACTION] 2021-11-15 09:37:26.485238 : User get his history in app
+[ACTION] 2021-11-15 09:37:27.569442 : User logour from app
