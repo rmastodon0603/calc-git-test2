@@ -1,5 +1,5 @@
 if __name__ == "__main__":
-  print("Choose your action? 1 = '+', 2 = '-', 3 = '*', 4 = '/', 5 = '>', 6 = '<=', 7 = '<', 8 = '<=' ")
+  print("Choose your action? 1 = '+', 2 = '-', 3 = '*', 4 = '/', 5 = '>', 6 = '<=', 7 = '<', 8 = '<=', 9 = 'factorial' ")
   x = int(input())
   
   print("Write number 1?")
@@ -38,4 +38,9 @@ if __name__ == "__main__":
       print("True")
     else:
       print("False")
+  if x==9:
+    factorial = 1
+    for i in range(2, num1+1):
+      factorial *= i
+    print(factorial)
   
